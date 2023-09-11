@@ -1,8 +1,6 @@
 Detta är fil 1
-
-
 lagt till i filen 
-
+MIN TEXT
 ännu mer
 ss
 Hejjjjj
